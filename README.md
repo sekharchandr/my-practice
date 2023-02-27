@@ -4,4 +4,4 @@ echo "Hello world"
 echo "i love my nation"
 echo "where are you"
 echo "i am from odisha"
-hi this is sekhar
+hi this is sekha
