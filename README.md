@@ -6,3 +6,4 @@ echo "where are you"
 echo "i am from odisha"
 hi this is sekha
 who are you
+echo "i am fine"
